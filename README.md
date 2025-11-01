@@ -7,20 +7,33 @@
 En: Completed coursework for the Skillbox Web Development 3.0 course, Module 8, Assignment 2: Single-page layout for the Gazprombank site for resolution fluid layout mobile-first
 Ru: Завершённая курсовая работа по курсу Skillbox «Веб-разработка 3.0», модуль 8, задание 2: Одностраничная верстка сайта Газпромбанка с резиновой сеткой и приоритетом мобильных устройств (mobile-first)
 
+## En: Completed Task:
+Create a fluid, responsive layout for the “Search Results” page and the dropdown search form in the header for the Gazprombank website, based on the design provided in the Figma mockup.
+
+## Ru: Выполненное задание: 
+Сформируйте резиновую адаптивную вёрстку страницы «Результаты поиска» и выпадающую форму поиска в шапке для сайта «Газпромбанка», основываясь на дизайне из предоставленного макета в Figma.
+
 En: Portfolio layout link: https://www.figma.com/design/OwE6DGnjGY4qWf3fNpDcRI/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-6264?node-id=2-3340&t=VoUH5bAMIBGh5VVP-0
 
 Ru: Ссылка на макет c портфолио: https://www.figma.com/design/OwE6DGnjGY4qWf3fNpDcRI/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2-FWEB-6264?node-id=2-3340&t=VoUH5bAMIBGh5VVP-0
 
-# Technologies Used
-HTML5
-CSS3
-Flexbox / Grid
-Media Queries
-Figma (design mockup)
+## En: Technologies Used
+## Ru: Используемые технологии
 
-# License
+- HTML5
+- CSS3
+- Flexbox / Grid
+- Media Queries
+- Figma (design mockup)
+
+## En: License
 This project is for educational purposes only. Do not copy or redistribute without permission.
 
+## Ru: Лицензия
+Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
+
+
+## En: Site Gazprom bank / Ru: Сайт Газпром бaнк
 # Desktop — 1536px
 <img width="1536" height="1780" alt="Desktop - 1536 (1)" src="https://github.com/user-attachments/assets/a373c7ff-e659-4297-8b14-35206fbdb99f" />
 <img width="1536" height="2200" alt="Desktop - 1536" src="https://github.com/user-attachments/assets/cb8ebb35-9efa-493e-aeb8-cb4aa194e153" />
