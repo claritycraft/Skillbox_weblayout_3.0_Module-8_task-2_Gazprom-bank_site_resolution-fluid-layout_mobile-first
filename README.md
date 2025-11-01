@@ -33,7 +33,7 @@ This project is for educational purposes only. Do not copy or redistribute witho
 Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
 
 
-## En: Site Gazprom bank / Ru: Сайт Газпром бaнк
+# En: Site Gazprom bank / Ru: Сайт Газпром бaнк
 # Desktop — 1536px
 <img width="1536" height="1780" alt="Desktop - 1536 (1)" src="https://github.com/user-attachments/assets/a373c7ff-e659-4297-8b14-35206fbdb99f" />
 <img width="1536" height="2200" alt="Desktop - 1536" src="https://github.com/user-attachments/assets/cb8ebb35-9efa-493e-aeb8-cb4aa194e153" />
